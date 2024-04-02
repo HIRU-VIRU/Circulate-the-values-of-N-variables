@@ -25,6 +25,7 @@ End the program
 
 ## Program:
 ```python
+#Program to Circulate the n variables using function concept
 #Developed by: HIRUTHIK SUDHAKAR
 #Reg num: 21223240054
 def circulate():
@@ -35,10 +36,11 @@ def circulate():
         a.append(temp)
     print("After circulating the values are:",a)
         
+        
 ```
 ## Output:
 
-![alt text](image-1.png)
+![alt text](image.png)
 
 ## Result:
 Thus the program to circulate the n variables using function is written and verified using python programming.
